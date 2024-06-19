@@ -1,5 +1,5 @@
-##Project Highlights:
-💡 ###Features:
+#Project Highlights:
+💡 ##Features:
 
 -User Authentication: Sign in with Google using Firebase Authentication.
 -Real-time Database: Store and manage expenses and income transactions using Firebase Firestore.
