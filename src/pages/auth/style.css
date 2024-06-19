@@ -1,0 +1,24 @@
+.expense-tracker-container{
+  background-color: aliceblue;
+}
+.leftSide {
+  min-width: 55%;
+  width: 99%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center 0px;
+}
+
+
+.signUpImg {
+  background-image: url(../../assets/signup.jpg);
+}
+
+.signInImg {
+  background-image: url(../../assets/signin.jpg);
+}
+.rightSide{
+ min-width: 40%;
+  min-height: 80%;
+}
